@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.396da4ec.css",
+    "main.js": "/static/js/main.0fa1ed39.js",
+    "static/js/453.e03d8469.chunk.js": "/static/js/453.e03d8469.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/logo1.png": "/static/media/logo1.e4f8fe57ef85757420ce.png",
+    "static/media/Tesco.png": "/static/media/Tesco.8082877f4b98f878cb92.png",
+    "static/media/WaitRose.png": "/static/media/WaitRose.80714b562d1ff24eba37.png",
+    "static/media/AsdaRB.png": "/static/media/AsdaRB.407b68156267054cf051.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/sipsite-logo-transparent.png": "/static/media/sipsite-logo-transparent.4389ecd52377a4ef240b.png",
+    "static/media/Sainsbury.png": "/static/media/Sainsbury.faa16010a229d9ce04c9.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/MorrisonsRB.png": "/static/media/MorrisonsRB.c461d2cf2480c347abbb.png",
+    "static/media/TescoRB.png": "/static/media/TescoRB.527122ebaf9e44cb27fa.png",
+    "static/media/OcadoRB.png": "/static/media/OcadoRB.418e8c483f4d6a4a064d.png",
+    "static/media/Ocado.png": "/static/media/Ocado.9fc0b9532edcc2b5e54a.png",
+    "static/media/AmazonRB.png": "/static/media/AmazonRB.8ea46c6f47823aed5e7b.png",
+    "static/media/SainsburyRB.png": "/static/media/SainsburyRB.63801c4f9ce3bd080164.png",
+    "static/media/WaitRoseRB.png": "/static/media/WaitRoseRB.55ca6988442422c3ffc7.png",
+    "static/media/CoOp.png": "/static/media/CoOp.8030faabcc8cd29264a4.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.396da4ec.css.map": "/static/css/main.396da4ec.css.map",
+    "main.0fa1ed39.js.map": "/static/js/main.0fa1ed39.js.map",
+    "453.e03d8469.chunk.js.map": "/static/js/453.e03d8469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.396da4ec.css",
+    "static/js/main.0fa1ed39.js"
+  ]
+}
